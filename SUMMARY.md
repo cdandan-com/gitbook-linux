@@ -6,3 +6,4 @@
 * [04-Linux操作系统学习——内核初始化.md](04linux-cao-zuo-xi-tong-xue-xi-nei-he-chu-shi-hua-.md.md)
 * [05-Linux操作系统IO机制原理.md](05linux-cao-zuo-xi-tong-io-ji-zhi-yuan-li-.md.md)
 * [06-Linux操作系统处理器调度基本准则和实现.md](06linux-cao-zuo-xi-tong-chu-li-qi-diao-du-ji-ben-zhun-ze-he-shi-xian-.md.md)
+* [07-Linux内核操作系统原理与概述](07linux-nei-he-cao-zuo-xi-tong-yuan-li-yu-gai-shu.md)
