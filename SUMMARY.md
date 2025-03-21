@@ -24,3 +24,8 @@
 * [03-Linux内核六大进程通信机制原理](03linux-nei-he-liu-da-jin-cheng-tong-xin-ji-zhi-yuan-li.md)
 * [04-Linux内核Socket通信原理](04linux-nei-he-socket-tong-xin-yuan-li.md)
 * [05-Linux内核进程的管理与调度](05linux-nei-he-jin-cheng-de-guan-li-yu-diao-du.md)
+* [06-Linux内核进程管理并发同步与原子操作](06linux-nei-he-jin-cheng-guan-li-bing-fa-tong-bu-yu-yuan-zi-cao-zuo.md)
+
+## 内存管理
+
+* [01-硬件原理 和 分页管理](nei-cun-guan-li/01-ying-jian-yuan-li-he-fen-ye-guan-li.md)
