@@ -23,3 +23,4 @@
 * [02-Linux内核IO基础知识与概念](02linux-nei-he-io-ji-chu-zhi-shi-yu-gai-nian.md)
 * [03-Linux内核六大进程通信机制原理](03linux-nei-he-liu-da-jin-cheng-tong-xin-ji-zhi-yuan-li.md)
 * [04-Linux内核Socket通信原理](04linux-nei-he-socket-tong-xin-yuan-li.md)
+* [05-Linux内核进程的管理与调度](05linux-nei-he-jin-cheng-de-guan-li-yu-diao-du.md)
